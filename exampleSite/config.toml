@@ -1,12 +1,23 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "lt"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Verslo Brizas"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
+
+[languages]
+  [Languages.lt]
+    languageName = "Lithuanian"
+    languageCode = "lt"
+    weight = 1
+  [Languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 2
+
 
 [module]
   [module.hugoVersion]
@@ -15,18 +26,18 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
+  twitter_handle = "@verslobrizas"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
   addDot = true
   addFrame = true
-  highlightColor = '#7b16ff'
-  baseColor = "#ffffff"
-  baseOffsetColor = "#eaeaea"
-  headingColor = "#1c1b1d"
-  textColor = "#4e5157"
-  dotColor = "#7b16ff"
+  highlightColor = '#33ab20'
+  baseColor = "#000005"
+  baseOffsetColor = "white"
+  headingColor = "white"
+  textColor = "white"
+  dotColor = "#4ccc14"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
@@ -39,11 +50,11 @@ pygmentsUseClasses = true
 [menu]
   [[menu.main]]
     identifier = 'home'
-    name = 'Home'
+    name = 'Pagrindinis'
     url = '/'
     weight = 1
   [[menu.main]]
-    name = "Tags"
+    name = "Istorijos"
     identifier = "tags"
     weight = 300
     url = "/tags/"
