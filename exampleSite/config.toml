@@ -25,7 +25,7 @@ pygmentsUseClasses = true
     min = "0.55.0"
 
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "G-P6Z47KPY1C"
   twitter_handle = "@verslobrizas"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
