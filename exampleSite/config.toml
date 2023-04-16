@@ -1,3 +1,4 @@
+googleAnalytics = "G-P6Z47KPY1C"
 baseURL = "/"
 languageCode = "lt"
 theme = "hugo-winston-theme"
