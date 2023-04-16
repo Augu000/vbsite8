@@ -3,15 +3,18 @@
   justify-content: space-between;
   align-items: center;
   margin-bottom: 30px;
-  font-size: 16px;
+  font-size: 20px;
+  
   @include breakpoint('small') {
     padding-bottom: 5px;
     margin-bottom: 40px;
   }
   a.header-logo {
+    color: var(--text-color);
     font-weight: bold;
     text-transform: uppercase;
     margin-right: 30px;
+    font-size: 30px;
   }
 }
 
