@@ -1,5 +1,5 @@
 ---
 title: 'Šilko Brizas'
-url: "silkobrizas"
+url: "silkobrizas.html"
 ---
 comming soon
