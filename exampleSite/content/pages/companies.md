@@ -1,6 +1,5 @@
 ---
-title: 'Globojamos įmonės'
-image: images/writer.jpeg
+title: 'Įmonės'
 url: "companies"
 menu:
   main:
@@ -8,14 +7,7 @@ menu:
     weight: 3
 ---
 
-## PAPRASTAI
-
-Esame atsakingi ir rūpestingi kūrėjai.
 
 
 
-## MŪSŲ KONTAKTAI:
 
-EL. PAŠTAS: verslobrizas@gmail.com
-
-TEL. NR. : +370 691 57879
