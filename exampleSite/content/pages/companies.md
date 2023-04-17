@@ -10,11 +10,11 @@ menu:
   <div class="collection">
     <div class="companies">
       <a href="google.com" id="SG">
-          <img src="/static/images/uploads/comp1.png" alt="Šilko Brizo logotipas">
+          <img src="vbsite8/static/images/uploads/comp1.png" alt="Šilko Brizo logotipas">
           <p>Šilko Brizas</p>
       </a>
       <a href="google.com" id="SB">
-        <img src="/static/images/uploads/comp2.png" alt="Sukto Gaidžio logotipas">
+        <img src="vbsite8/static/images/uploads/comp2.png" alt="Sukto Gaidžio logotipas">
         <p>Suktas Gaidys</p> 
       </a>
     </div>
