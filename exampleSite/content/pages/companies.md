@@ -10,7 +10,7 @@ menu:
   <div class="collection">
     <div class="companies">
       <a href="google.com" id="SG">
-          <img src="cctv.jpeg" alt="Šilko Brizo logotipas">
+          <img src="/images/cctv.jpeg" alt="Šilko Brizo logotipas">
           <p>Šilko Brizas</p>
       </a>
       <a href="google.com" id="SB">
