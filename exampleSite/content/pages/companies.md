@@ -9,11 +9,11 @@ menu:
 <html>
   <div class="collection">
     <div class="companies">
-      <a href="google.com" id="SG">
+      <a href="https://verslobrizas.lt/silkobrizas/" id="SG">
           <img src="/images/comp1.png" alt="Šilko Brizo logotipas">
           <p>Šilko Brizas</p>
       </a>
-      <a href="google.com" id="SB">
+      <a href="https://verslobrizas.lt/silkobrizas/" id="SB">
         <img src="/images/comp2.png" alt="Sukto Gaidžio logotipas">
         <p>Suktas Gaidys</p> 
       </a>
