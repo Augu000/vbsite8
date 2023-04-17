@@ -7,7 +7,7 @@ menu:
     weight: 3
 ---
 <html>
-  <div style="background-color: orange; width: 100%; height: 2vh;">
+  <div class="collection">
     <div class="companies">
       <div id="SG">
           SG
@@ -17,6 +17,14 @@ menu:
       </div>
     </div>
   </div>
+  <style>
+    .collection{
+      background-color: orange; 
+      width: 100%; 
+      height: 2vh;
+    }
+  
+  </style>
 </html>
 
 
