@@ -1,1 +1,41 @@
+<!-- Include Preact -->
+<script src="https://unpkg.com/preact@10.5.14/dist/preact.min.js"></script>
+
+<!-- Define the "Coming Soon" component -->
+<script>
+function ComingSoon() {
+  // Define the styles for the animated background
+  const backgroundStyles = {
+    backgroundImage: 'linear-gradient(to bottom, #6dd5ed, #2193b0)',
+    animation: 'animateBackground 10s linear infinite',
+    height: '100vh',
+    width: '100%',
+    position: 'fixed',
+    top: 0,
+    left: 0,
+    zIndex: -1,
+  };
+
+  // Define the styles for the "Coming Soon" message
+  const messageStyles = {
+    fontSize: '4rem',
+    color: '#fff',
+    textAlign: 'center',
+    marginTop: '20%',
+  };
+
+  return (
+    <div>
+      <div style={backgroundStyles}></div>
+      <div style={messageStyles}>Coming Soon!</div>
+    </div>
+  );
+}
+</script>
+
+<!-- Render the "Coming Soon" component -->
+<div id="preact-root"></div>
+<script>
+preact.render(preact.h(ComingSoon), document.getElementById('preact-root'));
+</script>
 
