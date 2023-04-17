@@ -9,20 +9,51 @@ menu:
 <html>
   <div class="collection">
     <div class="companies">
-      <div id="SG">
-          SG
-      </div>
-      <div id="SB">
-          SB
-      </div>
+      <a href="google.com" id="SG">
+          <img src="./comp1.png" alt="Šilko Brizo logotipas">
+          <p>Šilko Brizas</p>
+      </a>
+      <a href="google.com" id="SB">
+        <img src="./comp2.png" alt="Sukto Gaidžio logotipas">
+        <p>Suktas Gaidys</p> 
+      </a>
     </div>
   </div>
+  
+  
+  
+  
+  
+  
   <style>
-    .collection{
-      background-color: orange; 
-      width: 100%; 
-      height: 2vh;
+    #SG, #SB{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-decoration: none;
     }
+    .collection{
+      width: 100%; 
+    }
+    .companies{
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      
+    }
+
+    .companies img{
+      width: 100%;
+      height: 100px;
+      filter: grayscale(100%);
+      transition: .3s ease-in-out;
+    }
+    img:hover {
+      filter: grayscale(0);
+    }
+    
+    
   
   </style>
 </html>
