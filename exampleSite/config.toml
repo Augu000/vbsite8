@@ -8,6 +8,8 @@ paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
+staticDir = ["static"]
+
 
 [languages]
   [Languages.lt]
