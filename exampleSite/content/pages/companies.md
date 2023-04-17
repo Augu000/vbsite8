@@ -44,8 +44,8 @@ menu:
     }
 
     .companies img{
-      width: 100px;
-      height: 100px;
+      width: 10rem;
+      height: 10rem;
       filter: grayscale(100%);
       transition: .3s ease-in-out;
     }
