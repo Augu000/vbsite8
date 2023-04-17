@@ -52,8 +52,12 @@ menu:
     img:hover {
       filter: grayscale(0);
     }
-    
-    
+     
+      @media (max-width: 576px){
+      .companies{
+        flex-direction: column;
+        
+      }    
   
   </style>
 </html>
