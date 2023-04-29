@@ -1,6 +1,5 @@
 ---
 title: "Naujienos"
-description: "Naujienos"
 date: 2019-02-24
 menu:
   main:
