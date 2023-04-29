@@ -2,6 +2,7 @@
 title: 'Apie mus'
 image: images/writer.jpeg
 url: "about"
+description: "Apie mus"
 menu:
   main:
     name: "Apie"
