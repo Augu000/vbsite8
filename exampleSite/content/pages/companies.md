@@ -1,6 +1,7 @@
 ---
 title: 'Įmonės'
 url: "companies"
+description: "Įmonės"
 menu:
   main:
     name: "Įmonės"
