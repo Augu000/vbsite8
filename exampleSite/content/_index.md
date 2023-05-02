@@ -14,7 +14,7 @@ Mes, vertiname inovacijas ir siekiame kurti ateities sprendimus, kad padėtume j
 <p style=" font-size: 22px;
 line-height: 32px;">
  Internetinės svetainės dizainai. <br>
- Internetinių svetainės. <br>
+ Internetinių svetainių kūrimas. <br>
  Marketingo kampanijos. <br>
  Kompiuteriniai žaidimai. <br>
  Pagalba verslams. <br>
