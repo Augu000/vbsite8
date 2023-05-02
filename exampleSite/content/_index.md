@@ -13,12 +13,15 @@ Mes, vertiname inovacijas ir siekiame kurti ateities sprendimus, kad padėtume j
 ## PASLAUGOS
 <p style=" font-size: 22px;
 line-height: 32px;">
-* Internetinės svetainės dizainai.
-* Internetinių svetainės.
-* Marketingo kampanijos.
-* Kompiuteriniai žaidimai.
-* Pagalba verslams.
+ Internetinės svetainės dizainai.
+ Internetinių svetainės.
+ Marketingo kampanijos.
+ Kompiuteriniai žaidimai.
+ Pagalba verslams.
+
 </p>
+
+
 #### Susisiekite su mumis šiandien ir gaukite pasiūlymą.
 
 [SUSISIEKITE!](https://docs.google.com/forms/d/1LNTWnSMSel4PP5vldvFE7IaFhCJf5ZJ9HgNVmkJpM1U/edit)
