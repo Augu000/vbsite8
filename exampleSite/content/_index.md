@@ -10,7 +10,7 @@ Mes, vertiname inovacijas ir siekiame kurti ateities sprendimus, kad padėtume j
 <br>
 <br>
 
-#PASLAUGOS
+### PASLAUGOS
 
 - Internetinės svetainės dizainai.
 - Internetinių svetainės.
@@ -18,6 +18,6 @@ Mes, vertiname inovacijas ir siekiame kurti ateities sprendimus, kad padėtume j
 - Kompiuteriniai žaidimai.
 - Pagalba verslams.
 
-Susisiekite su mumis šiandien ir gaukite pasiūlymą.
+#### Susisiekite su mumis šiandien ir gaukite pasiūlymą.
 
 [SUSISIEKITE!](https://docs.google.com/forms/d/1LNTWnSMSel4PP5vldvFE7IaFhCJf5ZJ9HgNVmkJpM1U/edit)
