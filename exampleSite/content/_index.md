@@ -10,13 +10,13 @@ Mes, vertiname inovacijas ir siekiame kurti ateities sprendimus, kad padėtume j
 <br>
 <br>
 
-### PASLAUGOS
+## PASLAUGOS
 
-- Internetinės svetainės dizainai.
-- Internetinių svetainės.
-- Marketingo kampanijos.
-- Kompiuteriniai žaidimai.
-- Pagalba verslams.
+* Internetinės svetainės dizainai.
+* Internetinių svetainės.
+* Marketingo kampanijos.
+* Kompiuteriniai žaidimai.
+* Pagalba verslams.
 
 #### Susisiekite su mumis šiandien ir gaukite pasiūlymą.
 
