@@ -21,4 +21,4 @@ Sveiki atvykę, mes galime kurti:
 
 Susisiekite su mumis šiandien ir gaukite pasiūlymą.
 
-[SUSISIEKITE](https://www.example.com](https://docs.google.com/forms/d/1LNTWnSMSel4PP5vldvFE7IaFhCJf5ZJ9HgNVmkJpM1U/edit){: .btn .btn-primary target="_blank"}
+[SUSISIEKITE](https://docs.google.com/forms/d/1LNTWnSMSel4PP5vldvFE7IaFhCJf5ZJ9HgNVmkJpM1U/edit){: .btn .btn-primary target="_blank"}
