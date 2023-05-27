@@ -10,13 +10,13 @@ menu:
 <html>
   <div class="collection">
     <div class="companies">
-      <a href="https://verslobrizas.lt/silkobrizas/" id="SG">
-          <img src="/images/comp1.png" alt="Šilko Brizo logotipas">
-          <p>Šilko Brizas</p>
+      <a href="https://verslobrizas.lt/" id="SG">
+          <img src="" alt="logotipas">
+          <p>A</p>
       </a>
-      <a href="https://verslobrizas.lt/silkobrizas/" id="SB">
-        <img src="/images/comp2.png" alt="Sukto Gaidžio logotipas">
-        <p>Suktas Gaidys</p> 
+      <a href="https://verslobrizas.lt/" id="SB">
+        <img src="" alt="logotipas">
+        <p>B</p> 
       </a>
     </div>
   </div>
