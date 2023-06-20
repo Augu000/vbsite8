@@ -10,5 +10,5 @@ tags = ["blog", "minimal", "clean", "zerostatic"]
 features = ["blog"]
 
 [author]
-  name = "Robert Austin"
-  homepage = "https://www.zerostatic.io"
+  name = ""
+  homepage = ""
