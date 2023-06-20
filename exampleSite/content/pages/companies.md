@@ -12,11 +12,11 @@ menu:
     <div class="companies">
       <a href="https://verslobrizas.lt/" id="SG">
           <img src="" alt="logotipas">
-          <p>A</p>
+          <p></p>
       </a>
       <a href="https://verslobrizas.lt/" id="SB">
         <img src="" alt="logotipas">
-        <p>B</p> 
+        <p></p> 
       </a>
     </div>
   </div>
