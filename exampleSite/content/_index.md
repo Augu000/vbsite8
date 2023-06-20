@@ -22,6 +22,6 @@ line-height: 32px;">
 </p>
 
 
-#### Susisiekite su mumis šiandien ir gaukite pasiūlymą.
+
 
 [SUSISIEKITE!](https://docs.google.com/forms/d/1LNTWnSMSel4PP5vldvFE7IaFhCJf5ZJ9HgNVmkJpM1U/edit)
