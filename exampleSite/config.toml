@@ -56,8 +56,3 @@ staticDir = ["static"]
     name = 'Pagrindinis'
     url = '/'
     weight = 1
-  [[menu.main]]
-    name = "Istorijos"
-    identifier = "tags"
-    weight = 300
-    url = "/tags/"
