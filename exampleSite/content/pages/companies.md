@@ -11,7 +11,7 @@ menu:
   <div class="collection">
     <div class="companies">
       <a href="https://silkobrizas.company.site/" id="SG">
-          <img src="../../static/images/comp1.png" alt="logotipas">
+          <img src="../../static/images/cctv.jpeg" alt="logotipas">
           <p>Šilko Brizas</p>
       </a>
       <a href="https://verslobrizas.lt/" id="SB">
