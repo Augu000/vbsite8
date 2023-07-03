@@ -15,7 +15,7 @@ menu:
           <p>Šilko Brizas</p>
       </a>
       <a href="https://verslobrizas.lt/" id="SB">
-        <img src="" alt="logotipas">
+        <img src="" alt="">
         <p></p> 
       </a>
     </div>
