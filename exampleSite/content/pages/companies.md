@@ -10,9 +10,9 @@ menu:
 <html>
   <div class="collection">
     <div class="companies">
-      <a href="https://verslobrizas.lt/" id="SG">
-          <img src="" alt="logotipas">
-          <p></p>
+      <a href="https://silkobrizas.company.site/" id="SG">
+          <img src="/static/images/uploads/comp1.png" alt="logotipas">
+          <p>Šilko Brizas</p>
       </a>
       <a href="https://verslobrizas.lt/" id="SB">
         <img src="" alt="logotipas">
