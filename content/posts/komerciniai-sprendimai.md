@@ -7,6 +7,8 @@ description: "Komercinės svetainės, kaina nuo 1007 eurų."
 tags: Puslapių kūrimas
 ---
 
+<img src="https://verslobrizas.lt/images/uploads/commerce.svg">
+
 Įženkite į interneto platybes su optimizuotomis internetinėmis parduotuvėmis.
 
 VB Technologijos gali Jums padėti. 
