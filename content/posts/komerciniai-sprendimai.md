@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Komerciniai sprendimai"
+title: "Komerciniai svetainių sprendimai"
 date: 2023-04-16T22:03:36.467Z
 thumbnail: /images/uploads/screenshot-2023-02-21-181755.png
 description: "Komercinės svetainės, kaina nuo 1007 eurų."
