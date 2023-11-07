@@ -6,7 +6,7 @@ thumbnail: /images/uploads/screenshot-2023-02-21-181755.png
 description: "Reprezentacinės svetainės, kaina nuo 100 eurų."
 tags: Puslapių kūrimas
 ---
-<img src="https://verslobrizas.lt/images/design.svg">
+<img src="https://verslobrizas.lt/images/uploads/design.svg">
 
 Turite verslą, o gal galvojate apie ką tik sukurto verslo reprezentaciją internetinėse platybėse?
 
