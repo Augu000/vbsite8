@@ -17,7 +17,7 @@ line-height: 32px;">
  Internetinių svetainių kūrimas. <br>
  Marketingo kampanijos. <br>
  Kompiuteriniai žaidimai. <br>
- Pagalba verslams. <br>
+ Teisinė parama verslams. <br>
 
 </p>
 
