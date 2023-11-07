@@ -6,6 +6,9 @@ thumbnail: /images/uploads/screenshot-2023-02-21-181755.png
 description: "Teisinės konsultacijos, Europos Sąjungos paramos projektų rengimas."
 tags: ESParama
 ---
+
+<img src="https://verslobrizas.lt/images/uploads/docs.svg">
+
 Ruošiame projektus Europos Sąjungos paramai gauti.
 
 Daugiau nei 20 metų teisnėje sistemoje ir darbo su įvairiais teisiniais projektais.
