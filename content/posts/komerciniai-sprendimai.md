@@ -19,5 +19,5 @@ Galime sukurti svetainę su wordpress ir woocommerce papildymu.
 
 Taip pat galime pasiūlyti ir kitokių sprendimų naudojant statinius puslapius su mokėjimo integracija.
 
-Kainos nuo 1000 eurų.
+Kainos nuo 1007 eurų.
 
