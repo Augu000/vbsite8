@@ -3,7 +3,7 @@ layout: blog
 title: "Kuriame internetines svetaines"
 date: 2023-04-16T22:03:36.467Z
 thumbnail: /images/uploads/screenshot-2023-02-21-181755.png
-description: "Reprezentacinės svetainės, kaina nuo 100 eurų."
+description: "Reprezentacinės svetainės, kaina nuo 107 eurų."
 tags: Puslapių kūrimas
 ---
 <img src="https://verslobrizas.lt/images/uploads/design.svg">
@@ -16,5 +16,5 @@ Kuriame reprezentacines internetines svetaines, kurios yra pilnai optimizuotos, 
 
 Galime sukurti svetainę su wordpress ar kitokia turinio valdymo sistema. Taip pat galime pasiūlyti ir kitokių sprendimų.
 
-Kainos nuo 100 eurų.
+Kainos nuo 107 eurų.
 
