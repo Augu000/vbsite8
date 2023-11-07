@@ -3,7 +3,7 @@ layout: blog
 title: "Komerciniai sprendimai"
 date: 2023-04-16T22:03:36.467Z
 thumbnail: /images/uploads/screenshot-2023-02-21-181755.png
-description: "Reprezentacinės svetainės, kaina nuo 100 eurų."
+description: "Komercinės svetainės, kaina nuo 1007 eurų."
 tags: Puslapių kūrimas
 ---
 
