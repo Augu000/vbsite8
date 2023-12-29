@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: "Teikiame teisines konsultacijas"
+title: Teikiame teisines konsultacijas
 date: 2023-04-16T22:03:36.467Z
-thumbnail: /images/uploads/screenshot-2023-02-21-181755.png
-description: "Teisinės konsultacijos, Europos Sąjungos paramos projektų rengimas."
+thumbnail: ""
+description: Teisinės konsultacijos, Europos Sąjungos paramos projektų rengimas.
 tags: ESParama
 ---
 
