@@ -4,22 +4,13 @@ description: Kuriame ateitį verlams.
 
 ---
 
-Mes, vertiname inovacijas ir siekiame kurti ateities sprendimus, kad padėtume jums pasiekti užsibrėžtus tikslus. Mes nuolat ieškome naujų ir kūrybingų būdų, kurie patobulintų Jūsų verslą.
+Mes tikime, kad kiekvienas gali sukurti produktą ir jį išpuoselėti taip, kad šis atneštų laimę ne tik produkto autoriui, bet ir Lietuvai. Todėl mes Jums siūlome technologinius sprendimus: internetines svetaines, programėles, serverius, kompiuterinius žaidimus.
 
 <br>
 <br>
 <br>
 
-## PASLAUGOS
-<p style=" font-size: 22px;
-line-height: 32px;">
- Internetinės svetainės dizainai. <br>
- Internetinių svetainių kūrimas. <br>
- Marketingo kampanijos. <br>
- Kompiuteriniai žaidimai. <br>
- Teisinė parama verslams. <br>
 
-</p>
 
 
 
