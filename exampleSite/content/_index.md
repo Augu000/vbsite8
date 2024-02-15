@@ -4,7 +4,7 @@ description: Kuriame ateitį verlams.
 
 ---
 
-Mes tikime, kad kiekvienas gali sukurti produktą ir jį išpuoselėti taip, kad šis atneštų laimę ne tik produkto autoriui, bet ir Lietuvai. Todėl mes Jums siūlome technologinius sprendimus: internetines svetaines, programėles, serverius, kompiuterinius žaidimus.
+Kviečiame kreiptis dėl internetinių svetainių sprendimų.
 
 <br>
 <br>
