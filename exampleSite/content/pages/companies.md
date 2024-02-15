@@ -57,6 +57,7 @@ menu:
       height: 10rem;
       filter: grayscale(100%);
       transition: .3s ease-in-out;
+      object-fit: contain;
     }
     img:hover {
       filter: grayscale(0);
