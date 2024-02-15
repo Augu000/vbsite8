@@ -4,7 +4,7 @@ description: Laimi tie kurie bando.
 
 ---
 
-Kviečiame kreiptis dėl internetinių svetainių sprendimų.
+Kviečiame kreiptis dėl internetinių svetainių sprendimų ir teisinių konsultacijų.
 
 <br>
 <br>
