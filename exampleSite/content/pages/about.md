@@ -1,6 +1,6 @@
 ---
 title: 'Apie mus'
-image: images/writer.jpeg
+image: images/ceo.png
 url: "about"
 description: "Apie mus"
 menu:
