@@ -1,6 +1,6 @@
 ---
-title: Laimi tie kurie bando
-description: Laimi tie kurie bando.
+title: Laimi tie, kurie bando
+description: Laimi tie, kurie bando.
 
 ---
 
