@@ -19,7 +19,7 @@ menu:
           <p>Mokslopolis</p>
       </a>
       <a href="https://getev.eu/" id="SG">
-          <img src="https://verslobrizas.lt/images/comp1.png" alt="logotipas">
+          <img src="https://verslobrizas.lt/images/getev.png" alt="logotipas">
           <p>getEV.eu</p>
       </a>
       <a href="https://helperis.lt/" id="SG">
