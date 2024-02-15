@@ -15,7 +15,7 @@ menu:
           <p>LivReal</p>
       </a>
       <a href="https://mokslopolis.com/" id="SG">
-          <img src="https://verslobrizas.lt/images/comp1.png" alt="logotipas">
+          <img src="https://verslobrizas.lt/images/mokslopolis.png" alt="logotipas">
           <p>Mokslopolis</p>
       </a>
       <a href="https://getev.eu/" id="SG">
