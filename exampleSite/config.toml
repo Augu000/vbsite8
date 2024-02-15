@@ -11,16 +11,6 @@ pygmentsUseClasses = true
 staticDir = ["static"]
 
 
-[languages]
-  [Languages.lt]
-    languageName = "Lithuanian"
-    languageCode = "lt"
-    weight = 1
-  [Languages.en]
-    languageName = "English"
-    languageCode = "en"
-    weight = 2
-
 
 [module]
   [module.hugoVersion]
