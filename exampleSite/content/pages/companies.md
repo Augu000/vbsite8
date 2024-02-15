@@ -12,7 +12,7 @@ menu:
     <div class="companies">
       <a href="https://livreal.netlify.app/" id="SG">
           <img src="https://verslobrizas.lt/images/livreal.svg" alt="logotipas">
-          <p>Šilko Brizas</p>
+          <p>LivReal</p>
       </a>
       <a href="https://mokslopolis.com/" id="SG">
           <img src="https://verslobrizas.lt/images/comp1.png" alt="logotipas">
