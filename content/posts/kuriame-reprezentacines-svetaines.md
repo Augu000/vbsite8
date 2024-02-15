@@ -10,9 +10,7 @@ tags: Puslapių kūrimas
 
 Turite verslą, o gal galvojate apie ką tik sukurto verslo reprezentaciją internetinėse platybėse?
 
-VB Technologies gali Jums padėti. 
-
-Kuriame reprezentacines internetines svetaines, kurios yra pilnai optimizuotos, todėl turinys visada atsiras Jūsų būsimūjų klientų naršyklėje per mažiau nei vieną sekundę.
+Kuriame reprezentacines internetines svetaines custom, wordpress, wix.
 
 Galime sukurti svetainę su wordpress ar kitokia turinio valdymo sistema. Taip pat galime pasiūlyti ir kitokių sprendimų.
 
