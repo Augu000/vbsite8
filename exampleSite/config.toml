@@ -1,5 +1,5 @@
 googleAnalytics = "G-P6Z47KPY1C"
-baseURL = "/"
+baseURL = "https://www.verslobrizas.lt/"
 languageCode = "lt"
 theme = "hugo-winston-theme"
 themesDir = "themes"
