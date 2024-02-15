@@ -10,13 +10,13 @@ menu:
 <html>
   <div class="collection">
     <div class="companies">
-      <a href="https://silkobrizas.company.site/" id="SG">
-          <img src="https://verslobrizas.lt/images/comp1.png" alt="logotipas">
+      <a href="https://livreal.netlify.app/" id="SG">
+          <img src="https://verslobrizas.lt/images/livreal.svg" alt="logotipas">
           <p>Šilko Brizas</p>
       </a>
-      <a href="https://silkobrizas.company.site/" id="SG">
+      <a href="https://mokslopolis.com/" id="SG">
           <img src="https://verslobrizas.lt/images/comp1.png" alt="logotipas">
-          <p>Šilko Brizas</p>
+          <p>Mokslopolis</p>
       </a>
       <a href="https://getev.eu/" id="SG">
           <img src="https://verslobrizas.lt/images/comp1.png" alt="logotipas">
@@ -25,14 +25,6 @@ menu:
       <a href="https://helperis.lt/" id="SG">
           <img src="https://verslobrizas.lt/images/comp1.png" alt="logotipas">
           <p>getEV.eu</p>
-      </a>
-      <a href="https://fittimitti.lt/" id="SG">
-          <img src="https://verslobrizas.lt/images/comp1.png" alt="logotipas">
-          <p>FittiMitti.lt</p>
-      </a>
-      <a href="https://verslobrizas.lt/" id="SB">
-        <img src="" alt="">
-        <p></p> 
       </a>
     </div>
   </div>
