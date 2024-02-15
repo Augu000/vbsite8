@@ -1,6 +1,6 @@
 ---
-title: Kuriame ateitį verslams
-description: Kuriame ateitį verlams.
+title: Laimi tie kurie bando
+description: Laimi tie kurie bando.
 
 ---
 
