@@ -20,11 +20,11 @@ menu:
       </a>
       <a href="https://getev.eu/" id="SG">
           <img src="https://verslobrizas.lt/images/getev.png" alt="logotipas">
-          <p>getEV.eu</p>
+          <p>getEV</p>
       </a>
       <a href="https://helperis.lt/" id="SG">
           <img src="https://verslobrizas.lt/images/helperis.jpg" alt="logotipas">
-          <p>getEV.eu</p>
+          <p>Helperis</p>
       </a>
     </div>
   </div>
