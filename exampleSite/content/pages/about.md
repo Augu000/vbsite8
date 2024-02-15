@@ -9,9 +9,9 @@ menu:
     weight: 3
 ---
 
-## PAPRASTAI
+## Kodėl laimi tie, kurie bando?
 
-Esame atsakingi ir rūpestingi kūrėjai.
+Nes nelaimi tie, kurie nebando. 
 
 
 
