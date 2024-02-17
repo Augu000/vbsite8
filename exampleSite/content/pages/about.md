@@ -1,6 +1,6 @@
 ---
 title: 'Apie mus'
-image: images/ceo.png
+image: images/verslobrizas.webp
 url: "about"
 description: "Apie mus"
 menu:
