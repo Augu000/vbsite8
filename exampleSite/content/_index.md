@@ -27,8 +27,7 @@ Nu ir Shopify..
 <br><br>
 
 **Ką galime pasiūlyti nesusijusio su IT?**
-<br><br>
-Mes galime pasiūlyti:
+<br>
 <br>
 Teisinės konsultacijos.
 <br>
