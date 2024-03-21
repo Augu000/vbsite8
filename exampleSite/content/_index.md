@@ -4,7 +4,8 @@ description: Laimi tie, kurie daro.
 
 ---
 
-**Kas mes esame?**
+**Kas mes esame?** 
+<br>
 Šį kartą kreipsimės į Jus. Ar Jums yra taip buvę, kad mąstėte apie problemą ir netikėtai suglavojot idėją? IR sugalvoję idėją Jūs nieko nedarėte..<br>
 Tokie buvome ir mes. BET, kartą nusprendėme pabandyti. Todėl šiandien esame dizainerių, programuotojų, teisininkų ir mąstytojų kompanija. Norime idėjoms suteikti galimybę. 
 <br>
