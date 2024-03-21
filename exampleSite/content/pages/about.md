@@ -9,11 +9,6 @@ menu:
     weight: 3
 ---
 
-## Kodėl laimi tie, kurie bando?
-
-Nes nelaimi tie, kurie nebando. 
-
-
 
 ## MŪSŲ KONTAKTAI:
 
