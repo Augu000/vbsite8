@@ -12,8 +12,7 @@ Tokie buvome ir mes. BET, kartą nusprendėme pabandyti. Todėl šiandien esame 
 <br>
 
 **Ką galime pasiūlyti?** <br><br>
-Mes galime pasiūlyti:
-<br>
+
 Wordpress internetinių svetainių kūrimas.
 <br>
 JAMstack svetainių kūrimas.
