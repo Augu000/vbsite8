@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Kuriame internetines svetaines
-date: 2023-04-16T22:03:36.467Z
+date:
 thumbnail: ""
 description: Reprezentacinės svetainės, pasakykite biudžetą jau šiandien!
 tags: Puslapių kūrimas
